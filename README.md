@@ -110,7 +110,7 @@ Make sure to replace `"your-key-file-name.json"` with your actual key filename.
 pyinstaller --onefile --windowed --add-data "questions_vol1.csv;." --add-data "your-key-file-name.json;." speaking.py
 ```
 
-##### 3. Find the Executable: The final` speaking.exe` file will be located in the newly created `dist` folder.
+##### 3. Find the Executable: The final `speaking.exe` file will be located in the newly created `dist` folder.
 
 
 
