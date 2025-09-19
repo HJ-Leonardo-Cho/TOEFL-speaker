@@ -1,20 +1,35 @@
-# TOEFL-speaker
-you can add TOEFL speaking examples and playing audio with timer
+# TOEFL Speaking Practice App
+
+A GUI application built with Python and Tkinter to help users practice for the TOEFL independent speaking task. This app provides a realistic practice environment with AI-generated voice, timers, and recording functionality.
+
+
 
 ---
 
-## 📦 Building the .exe from Source (Optional)
+## ⬇️ Download the App
 
-If you want to build the standalone `.exe` application yourself from the source code, follow these steps.
+If you are not a developer and just want to use the program, you can download the ready-to-use application from our Releases page. No installation is needed!
 
-### 1. Complete the Initial Setup
-First, follow all the steps in the **[🚀 Installation & Setup](#-installation--setup)** section above. This includes:
--   Cloning the repository.
--   Setting up your own Google Cloud JSON key and updating the filename in `speaking.py`.
--   Creating and activating the virtual environment (`venv`).
--   Installing all dependencies with `pip install -r requirements.txt`.
+➡️ **[Download the latest .exe from Releases](https://github.com/HJ-Leonardo-Cho/TOEFL-speaker/releases)**
 
-**Important**: Make sure `pyinstaller` is included in your `requirements.txt` file. If not, install it in your virtual environment and update the file:
+---
+
+## 📖 For Developers: Running from Source
+
+If you are a developer and want to run or modify the source code, please follow the detailed instructions below.
+
+### 🛠️ 1. Prerequisites
+
+Before you begin, ensure you have the following installed on your system:
+-   **Python 3.9+**: [Download from python.org](https://www.python.org/downloads/)
+-   **Git**: [Download from git-scm.com](https://git-scm.com/downloads)
+
+---
+
+### 🚀 2. Step-by-Step Setup Guide
+
+#### Step 2.1: Clone the Repository
+First, clone this repository to your local machine. Open your terminal (Command Prompt, PowerShell, or Git Bash) and run the following command:
 ```bash
-pip install pyinstaller
-pip freeze > requirements.txt
+git clone [https://github.com/HJ-Leonardo-Cho/TOEFL-speaker.git](https://github.com/HJ-Leonardo-Cho/TOEFL-speaker.git)
+cd TOEFL-speaker
