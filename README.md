@@ -97,8 +97,8 @@ Once you have completed all the setup steps, you can run the application from yo
 ```bash
 python speaking.py
 ```
-#### 4. Building the .exe from Source (Optional)
-If you want to build the standalone `.exe` application yourself, follow these additional steps.
+#### 4. Building the .exe from Source (Optional, but convenient)
+If you want to build the standalone `.exe` GUI application yourself, follow these additional steps.
 
 ##### 1. Ensure PyInstaller is installed: The `requirements.txt` file should include `pyinstaller`. If not, install it
 ```bash
