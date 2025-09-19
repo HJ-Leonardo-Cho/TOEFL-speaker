@@ -1,41 +1,18 @@
-# Prerequisites
-*.d
+# Google Cloud Key (가장 중요!)
+*.json
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Virtual Environment
+venv/
+toefl_env/
 
-# Precompiled Headers
-*.gch
-*.pch
+# PyInstaller files
+dist/
+build/
+*.spec
 
-# Linker files
-*.ilk
+# Python cache files
+__pycache__/
+*.pyc
 
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+# IDE files (e.g., VSCode)
+.vscode/
