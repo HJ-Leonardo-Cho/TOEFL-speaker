@@ -47,7 +47,7 @@ This application requires a Google Cloud Platform service account key to use the
 
 #### 4. Create a Service Account:
 
-Go to IAM & Admin > Service Accounts.
+Go to 'IAM & Admin' > 'Service Accounts'.
 
 Click + CREATE SERVICE ACCOUNT.
 
