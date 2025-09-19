@@ -14,7 +14,7 @@ If you are not a developer and just want to use the program, you can download th
 
 ---
 
-## 📖 For Developers: Running from Source
+## 📖 For Developers: Running from Source Or Add your own questions!
 
 If you are a developer and want to run or modify the source code, please follow the detailed instructions below.
 
@@ -109,6 +109,7 @@ Make sure to replace `"your-key-file-name.json"` with your actual key filename.
 ```bash
 pyinstaller --onefile --windowed --add-data "questions_vol1.csv;." --add-data "your-key-file-name.json;." speaking.py
 ```
+`"questions_vol1.csv"` is pre-provided question list. You can use your own csv files when you build TOEFL-speaker.
 
 ##### 3. Find the Executable: The final `speaking.exe` file will be located in the newly created `dist` folder.
 
