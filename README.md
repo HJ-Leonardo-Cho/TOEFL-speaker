@@ -1,6 +1,6 @@
 # TOEFL Speaking Practice App
 
-A GUI application built with Python and Tkinter to help users practice for the TOEFL independent speaking task. This app provides a realistic practice environment with AI-generated voice, timers, and recording functionality.
+A GUI application built with Python and Tkinter to help users practice for the TOEFL independent speaking task. This app provides a practice environment with AI-generated voice, timers, and recording functionality.
 
 
 
@@ -11,7 +11,7 @@ A GUI application built with Python and Tkinter to help users practice for the T
 If you are not a developer and just want to use the program, you can download the ready-to-use application from our Releases page. No installation is needed!
 
 ➡️ **[Download the latest .exe from Releases](https://github.com/HJ-Leonardo-Cho/TOEFL-speaker/releases)**
-
+(last update 2025-09-19)
 ---
 
 ## 📖 For Developers: Running from Source Or Add your own questions!
